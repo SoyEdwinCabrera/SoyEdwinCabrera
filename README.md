@@ -1,7 +1,9 @@
 # Hello!  I'm Edwin! 
 
 ## About me
-I'm a passionate for learn new things. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
+I am passionate about data analysis and always eager to learn new things. My journey in the tech world began with a strong interest in uncovering hidden patterns and trends that can transform data into valuable strategies for decision-making.
+
+With a solid foundation in data analysis and visualization techniques, I specialize in interpreting large volumes of information to provide key insights and guide companies toward informed decisions. My focus is on finding practical solutions and building models that create real impact for the business.
 
 ## Contact me
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+At this stage of my career, I am looking for collaborative projects and opportunities where I can apply and further develop my skills in data analysis, statistics, and predictive modeling. Let's connect and explore how we can harness the power of data to drive innovative projects forward!
