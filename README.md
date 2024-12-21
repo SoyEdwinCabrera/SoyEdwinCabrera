@@ -1,5 +1,6 @@
 # Hello!  I'm Edwin! 
 
+
 ## About me
 I am passionate about data analysis and always eager to learn new things. My journey in the tech world began with a strong interest in uncovering hidden patterns and trends that can transform data into valuable strategies for decision-making.
 
