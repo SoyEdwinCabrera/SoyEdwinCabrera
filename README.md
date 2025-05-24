@@ -10,7 +10,3 @@ At this stage of my career, I am looking for collaborative projects and opportun
 
 
 ## Contact me
-
-##
-
-
