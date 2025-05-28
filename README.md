@@ -12,3 +12,5 @@ At this stage of my career, I am looking for collaborative projects and opportun
 ## Contact me
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyedwincabrera&layout=compact)
+
+(https://github-readme-stats.vercel.app/api?username=soyedwincabrera&show_icons=true&theme=tokyonight)
