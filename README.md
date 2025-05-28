@@ -16,3 +16,9 @@ At this stage of my career, I am looking for collaborative projects and opportun
 [![](https://visitcount.itsvg.in/api?id=soyedwincabrera&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 ![SrGobi GitHub stats](https://github-readme-stats.vercel.app/api?username=soyedwincabrera&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoyEdwinCabrera&hide=javascript,html)](https://github.com/SrGobi/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoyEdwinCabrera&langs_count=8)](https://github.com/SrGobi/github-readme-stats)
