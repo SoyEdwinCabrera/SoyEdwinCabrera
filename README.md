@@ -16,3 +16,5 @@ At this stage of my career, I am looking for collaborative projects and opportun
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoyEdwinCabrera&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoyEdwinCabrera&hide_progress=true)
