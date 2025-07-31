@@ -8,6 +8,8 @@ With a solid foundation in data analysis and visualization techniques, I special
 
 At this stage of my career, I am looking for collaborative projects and opportunities where I can apply and further develop my skills in data analysis, statistics, and predictive modeling. Let's connect and explore how we can harness the power of data to drive innovative projects forward.
 
++++
+
 
 ## Tech Stack
 
